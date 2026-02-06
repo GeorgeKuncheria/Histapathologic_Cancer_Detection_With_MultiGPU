@@ -1,0 +1,10 @@
+Primary Dataset:
+·  	Content: A large-scale histopathologic dataset designed for deep learning. It contains over 300,000 images, per-split into training (234,000+), testing (47,200+), and validation (26,000+) sets.
+·  	Labels: Images are classified into two classes: “Normal” and “OSCC”
+·  	Data Source: https://www.kaggle.com/datasets/satyaprakash138/histopathologic-cancer-dataset
+
+
+Supplementary Dataset:
+·  	Content: A smaller, specialized dataset of 1,224 histopathological images of oral cavity. It includes images at two different resolutions (100x and 400x magnification).
+·  	Labels: Images are classified into two classes: “Normal” and “OSCC”.
+·  	Data Source: https://www.kaggle.com/datasets/ashenafifasilkebede/dataset
